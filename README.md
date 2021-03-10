@@ -6,3 +6,5 @@ NodeJS, yarn, git
 
 ## Commands to start/stop project:
 Start - serve, stop - Ctrl + c or close terminal/cmd
+
+### I'm using Bootstrap 4.5 (https://getbootstrap.com/)
