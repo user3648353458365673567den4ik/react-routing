@@ -2,7 +2,7 @@
 
 
 ## You need:
-### NodeJS, yarn, git
+NodeJS, yarn, git
 
-## Commands to start/stop project
-### Start - serve, stop - Ctrl + c or close terminal/cmd
+## Commands to start/stop project:
+Start - serve, stop - Ctrl + c or close terminal/cmd
